@@ -28,8 +28,8 @@
         "illuminate/console": "*",
         "illuminate/filesystem": "*",
         "illuminate/support": "*",
-        "orchestra/model": "*",
-        "orchestra/support": "*"
+        "orchestra/model": "^6.0",
+        "orchestra/support": "^7.0"
     },
     "require-dev": {
         "laravel/tinker": "^2.5",
